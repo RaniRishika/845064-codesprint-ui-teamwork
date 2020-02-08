@@ -1,13 +1,13 @@
 My associate id:
-845029
+845064
 Other team members:
 845029,845030,845064,845091
 Team lead:
 845064
 My Role in team:
-1. To develop PlaceOrder Validation and dealing with Local Storage.
+1. To develop PlaceOrder Layout and dealing with Local Storage.
 My development files:
-1. vieworder.html
+1. placeorder.html
 2. giftcard.js
 I was strong in:
 1. JavaScript
